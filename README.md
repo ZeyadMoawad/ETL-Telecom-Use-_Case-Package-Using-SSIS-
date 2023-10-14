@@ -1,7 +1,9 @@
 # ETL-Telecom-Use-_Case-Package-Using-SSIS-
 
 1- A CSV file is saved every 5 minutes by a system at the telecom company.
+
 2- The fundamental information about the numerous transactions clients completed over a given time period is contained in this file.
+
 3-The company requires that data be processed according to mapping rules before being stored in a database.
 
 I constructed a data flow for the files that traverses all the files in a folder, extracts the data, processes it, and stores the results in a database. And Auditing the data flow package and handling missing values and incorrect data types

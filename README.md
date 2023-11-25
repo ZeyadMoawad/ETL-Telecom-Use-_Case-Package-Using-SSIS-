@@ -1,4 +1,4 @@
-# ETL-Telecom-Use-_Case-Package-Using-SSIS-
+# ETL-Telecom-Use-_Case-Package-Using-SSIS
 
 1- A CSV file is saved every 5 minutes by a system at the telecom company.
 
